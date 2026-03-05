@@ -1,6 +1,8 @@
 # Benchmark-to-Deployment Gap in Network Intrusion Detection  
 ### Reproducible Experiments with Benchmark, Day-Shift, and Overlay Testbeds
 
+![figure](graphical_abstract.png)
+
 This repository contains the experimental pipeline used in the paper:
 
 **"Benchmark Performance Is Not Deployment Validity:  
